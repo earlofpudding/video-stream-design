@@ -1,0 +1,22 @@
+{
+  "name": "watchdubbed2",
+  "version": "1.0.0",
+  "description": "Conceptual design",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earlofpudding/video-stream-design.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/earlofpudding/video-stream-design/issues"
+  },
+  "homepage": "https://github.com/earlofpudding/video-stream-design#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
